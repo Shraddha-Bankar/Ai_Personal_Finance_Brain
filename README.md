@@ -1,24 +1,24 @@
-# 📌 AI Personal Finance Brain  
+# AI Personal Finance Brain  
 
-## 👩‍💻 Author  
+## Author  
 Shraddha Bankar  
 
-## 🏫 Affiliation  
+## Affiliation  
 Computer Science Engineering (Data Science)  
 
-## 📅 Date  
+## Date  
 March 2026  
 
 ---
 
-## 📖 Abstract  
+## Abstract  
 This project builds an AI Personal Finance Brain to help users manage money easily.  
 
 It tracks income and expenses, predicts future savings, checks financial risk, and suggests simple investment ideas.  
 
 ---
 
-## 📘 Introduction  
+## Introduction  
 Managing money can be hard. This AI system makes it easier by:  
 - Tracking spending  
 - Predicting savings  
@@ -29,14 +29,14 @@ It saves time and helps users make smarter money decisions.
 
 ---
 
-## 📚 Literature Review  
+## Literature Review  
 Apps like Mint and Money Manager track spending but don’t predict savings or give advice.  
 
 This project combines tracking, predictions, and suggestions in one simple system.  
 
 ---
 
-## ⚙️ Methodology  
+## Methodology  
 - Collect income and expense data  
 - Clean and process data with Python and Pandas  
 - Predict savings using simple ML  
@@ -46,7 +46,7 @@ This project combines tracking, predictions, and suggestions in one simple syste
 
 ---
 
-## 💻 Implementation  
+## Implementation  
 
 **Language:** Python  
 
@@ -63,7 +63,7 @@ This project combines tracking, predictions, and suggestions in one simple syste
 
 ---
 
-## 📊 Results  
+## Results  
 The system can:  
 - Track daily income and expenses  
 - Categorize spending (Food, Travel, Bills, etc.)  
@@ -75,14 +75,14 @@ It helps users understand their finances easily.
 
 ---
 
-## ⚠️ Limitations  
+## Limitations  
 - Predictions are basic  
 - Needs correct input data  
 - Advanced investment advice not included  
 
 ---
 
-## 🚀 Future Scope  
+## Future Scope  
 - Connect with bank transactions automatically  
 - Use advanced AI for better predictions  
 - Provide personalized investment plans  
@@ -91,12 +91,12 @@ It helps users understand their finances easily.
 
 ---
 
-## ✅ Conclusion  
+## Conclusion  
 This AI Personal Finance Brain is simple, easy to use, and helps users manage money, save more, and plan investments.  
 
 ---
 
-## 📎 References  
+## References  
 1. Mint – Personal Finance App  
 2. Money Manager Apps & Reviews (2022)  
 3. Python for Data Analysis (2020)  
