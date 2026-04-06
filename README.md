@@ -12,7 +12,7 @@ March 2026
 ---
 
 ## Abstract  
-This project builds an AI Personal Finance Brain to help users manage money easily.  
+This project builds an AI Financial Advisor to help users manage money easily.  
 
 It tracks income and expenses, predicts future savings, checks financial risk, and suggests simple investment ideas.  
 
