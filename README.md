@@ -1,4 +1,4 @@
-# AI Personal Finance Brain  
+# AI Financial Advisor 
 
 ## Author  
 Shraddha Bankar  
@@ -92,7 +92,7 @@ It helps users understand their finances easily.
 ---
 
 ## Conclusion  
-This AI Personal Finance Brain is simple, easy to use, and helps users manage money, save more, and plan investments.  
+This AI Financial Advisor is simple, easy to use, and helps users manage money, save more, and plan investments.  
 
 ---
 
